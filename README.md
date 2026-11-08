@@ -1,16 +1,24 @@
-## Hi there 👋
+# Hi, I'm Fenuel 👋
 
-<!--
-**STUNNA65/STUNNA65** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 Computer Science Student
+🚀 Aspiring Software Developer
 
-Here are some ideas to get you started:
+## About Me
+- Currently learning Software Engineering.
+- Interested in Web Development.
+- Learning Backend Development and Databases.
+- Building real-world software projects.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Technologies
+
+- HTML
+- CSS
+- JavaScript
+- TypeScript
+- Python
+- MySQL
+- Git & GitHub
+
+## Current Focus
+Building full-stack applications and improving
+my software development skills.
