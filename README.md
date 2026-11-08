@@ -1,24 +1,57 @@
 # Hi, I'm Fenuel 👋
 
-💻 Computer Science Student
-🚀 Aspiring Software Developer
+### Computer Science Student | Aspiring Software Engineer
 
-## About Me
-- Currently learning Software Engineering.
-- Interested in Web Development.
-- Learning Backend Development and Databases.
-- Building real-world software projects.
+Welcome to my GitHub profile!
 
-## Technologies
+I'm a Computer Science student passionate about building practical software solutions, exploring new technologies, and improving my software engineering skills.
 
-- HTML
-- CSS
+### 🚀 About Me
+
+- 🎓 Computer Science student.
+- 💻 Interested in Full-Stack Development.
+- 🌱 Currently improving my skills in TypeScript, JavaScript and Backend Development.
+- 🗄️ Interested in database design and software architecture.
+- 🔧 Enjoy solving problems and building practical applications.
+- 🇰🇪 Based in Kenya.
+
+### 🛠️ Technologies & Tools
+
+**Languages**
 - JavaScript
 - TypeScript
 - Python
-- MySQL
-- Git & GitHub
+- SQL
 
-## Current Focus
-Building full-stack applications and improving
-my software development skills.
+**Web Development**
+- HTML
+- CSS
+
+**Databases**
+- MySQL
+
+**Tools**
+- Git
+- GitHub
+- Linux
+- VS Code
+
+### 🎯 Current Goals
+
+- Build complete Full-Stack applications.
+- Improve my API development skills.
+- Master database management.
+- Contribute to open-source projects.
+- Develop clean, maintainable software.
+
+### 📌 Featured Projects
+
+More projects coming soon!
+
+### 🤝 Let's Connect
+
+- GitHub: https://github.com/STUNNA65
+
+---
+
+*Learning, building, debugging and improving one project at a time.*
